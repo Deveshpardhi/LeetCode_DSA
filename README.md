@@ -151,5 +151,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0086-partition-list) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
