@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2551-apply-operations-to-an-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2107-find-unique-binary-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2107-find-unique-binary-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Design
 |  |
 | ------- |
@@ -178,4 +181,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
