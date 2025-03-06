@@ -185,4 +185,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3227-find-missing-and-repeated-values) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
