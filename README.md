@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Stack
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Math
 |  |
