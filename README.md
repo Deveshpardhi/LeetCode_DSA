@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0792-binary-search) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1477-product-of-the-last-k-numbers) |
@@ -201,4 +202,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2610-closest-prime-numbers-in-range) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
