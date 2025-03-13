@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0792-binary-search) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1206-corporate-flight-bookings](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1206-corporate-flight-bookings) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [1206-corporate-flight-bookings](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1206-corporate-flight-bookings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Backtracking
