@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Stack
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2107-find-unique-binary-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2107-find-unique-binary-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -165,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Dynamic Programming
 |  |
@@ -224,4 +228,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2690-house-robber-iv) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
