@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3637-count-number-of-balanced-permutations) |
 ## Stack
 |  |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3637-count-number-of-balanced-permutations) |
 ## Design
 |  |
@@ -183,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1160-letter-tile-possibilities](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2308-divide-array-into-equal-pairs) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -248,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2262-solving-questions-with-brainpower) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3637-count-number-of-balanced-permutations) |
 ## Two Pointers
 |  |
