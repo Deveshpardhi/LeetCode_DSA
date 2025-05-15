@@ -316,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0197-rising-temperature) |
+| [0596-classes-more-than-5-students](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0596-classes-more-than-5-students) |
 | [0620-not-boring-movies](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0620-not-boring-movies) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1338-queries-quality-and-percentage) |
