@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0368-largest-divisible-subset) |
 | [0792-binary-search](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0792-binary-search) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0368-largest-divisible-subset) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -275,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0086-partition-list) |
 | [0768-partition-labels](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0868-push-dominoes) |
