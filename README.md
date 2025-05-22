@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3001-apply-operations-to-maximize-score](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3321-type-of-triangle](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3430-count-days-without-meetings) |
+| [3647-zero-array-transformation-iii](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
 |  |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3647-zero-array-transformation-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -190,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3647-zero-array-transformation-iii](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3647-zero-array-transformation-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -219,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3001-apply-operations-to-maximize-score](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3647-zero-array-transformation-iii](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3647-zero-array-transformation-iii) |
 ## Tree
 |  |
 | ------- |
