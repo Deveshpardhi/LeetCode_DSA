@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2107-find-unique-binary-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2262-solving-questions-with-brainpower) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -359,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2690-house-robber-iv) |
