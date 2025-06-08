@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0386-lexicographical-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2439-longest-cycle-in-a-graph) |
@@ -445,4 +446,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
