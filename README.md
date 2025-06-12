@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0020-valid-parentheses) |
 | [0768-partition-labels](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0020-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
