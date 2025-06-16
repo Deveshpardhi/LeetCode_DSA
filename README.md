@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3001-apply-operations-to-maximize-score) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -366,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2478-longest-nice-subarray) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Geometry
 |  |
