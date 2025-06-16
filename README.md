@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0768-partition-labels) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
