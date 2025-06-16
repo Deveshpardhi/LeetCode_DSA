@@ -300,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0191-number-of-1-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Graph
 |  |
@@ -363,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0342-power-of-four) |
