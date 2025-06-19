@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0389-find-the-difference](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0389-find-the-difference) |
 | [0768-partition-labels](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
+| [0389-find-the-difference](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0389-find-the-difference) |
 | [0768-partition-labels](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0368-largest-divisible-subset) |
+| [0389-find-the-difference](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0389-find-the-difference) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -381,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0461-hamming-distance) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2308-divide-array-into-equal-pairs) |
