@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0136-single-number) |
+| [0238-product-of-array-except-self](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0238-product-of-array-except-self) |
 | [0368-largest-divisible-subset](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0368-largest-divisible-subset) |
 | [0792-binary-search](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0792-binary-search) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0238-product-of-array-except-self) |
 | [1206-corporate-flight-bookings](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1206-corporate-flight-bookings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
