@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0078-subsets) |
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0191-number-of-1-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Graph
@@ -339,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0368-largest-divisible-subset) |
