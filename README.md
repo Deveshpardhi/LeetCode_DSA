@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0020-valid-parentheses) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0389-find-the-difference](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0389-find-the-difference) |
 | [0768-partition-labels](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0768-partition-labels) |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
