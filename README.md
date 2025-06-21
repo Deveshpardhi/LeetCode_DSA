@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0053-maximum-subarray) |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0389-find-the-difference) |
@@ -364,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0086-partition-list) |
