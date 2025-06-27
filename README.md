@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0768-partition-labels) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0394-decode-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -460,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0394-decode-string) |
 ## Bit Manipulation
 |  |
 | ------- |
