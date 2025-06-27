@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0389-find-the-difference) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0074-search-a-2d-matrix) |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -188,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0368-largest-divisible-subset) |
