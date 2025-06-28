@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0368-largest-divisible-subset](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0368-largest-divisible-subset) |
@@ -537,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0792-binary-search](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0882-peak-index-in-a-mountain-array) |
