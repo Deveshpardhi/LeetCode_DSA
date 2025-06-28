@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0932-monotonic-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0932-monotonic-array) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1206-corporate-flight-bookings](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1206-corporate-flight-bookings) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0389-find-the-difference) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -323,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0768-partition-labels) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
