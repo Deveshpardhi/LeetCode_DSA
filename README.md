@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0040-combination-sum-ii](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0053-maximum-subarray) |
@@ -305,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0078-subsets) |
