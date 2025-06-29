@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2107-find-unique-binary-string) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2107-find-unique-binary-string) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -221,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -240,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -407,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Graph
 |  |
 | ------- |
@@ -636,4 +641,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Quickselect
+|  |
+| ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
