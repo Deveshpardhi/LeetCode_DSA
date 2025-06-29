@@ -456,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0125-valid-palindrome) |
@@ -483,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0141-linked-list-cycle) |
