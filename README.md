@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0231-power-of-two) |
@@ -469,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0141-linked-list-cycle) |
@@ -483,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0050-powx-n) |
