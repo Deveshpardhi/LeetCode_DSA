@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2690-house-robber-iv](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2836-neither-minimum-nor-maximum) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2681-put-marbles-in-bags) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2836-neither-minimum-nor-maximum) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
