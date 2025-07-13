@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0932-monotonic-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0932-monotonic-array) |
+| [1028-interval-list-intersections](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1028-interval-list-intersections) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1206-corporate-flight-bookings](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1206-corporate-flight-bookings) |
@@ -541,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0908-middle-of-the-linked-list) |
+| [1028-interval-list-intersections](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1028-interval-list-intersections) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -733,4 +735,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0098-validate-binary-search-tree) |
+## Line Sweep
+|  |
+| ------- |
+| [1028-interval-list-intersections](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1028-interval-list-intersections) |
 <!---LeetCode Topics End-->
