@@ -313,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0368-largest-divisible-subset) |
 | [1260-day-of-the-year](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1260-day-of-the-year) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -570,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0328-odd-even-linked-list](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
