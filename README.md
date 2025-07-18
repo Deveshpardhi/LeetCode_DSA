@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0368-largest-divisible-subset](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0368-largest-divisible-subset) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0455-assign-cookies) |
 | [0500-keyboard-row](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0500-keyboard-row) |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
