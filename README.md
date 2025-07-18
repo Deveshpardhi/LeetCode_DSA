@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0242-valid-anagram) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0043-multiply-strings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2048-build-array-from-permutation) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2195-time-needed-to-buy-tickets) |
@@ -318,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0231-power-of-two) |
