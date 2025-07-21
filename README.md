@@ -330,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0070-climbing-stairs) |
+| [0223-rectangle-area](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0342-power-of-four) |
@@ -635,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0223-rectangle-area) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Matrix
 |  |
