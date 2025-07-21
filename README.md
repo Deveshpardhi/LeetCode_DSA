@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0455-assign-cookies) |
 | [0500-keyboard-row](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0587-erect-the-fence](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0587-erect-the-fence) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0830-largest-triangle-area) |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0368-largest-divisible-subset) |
+| [0587-erect-the-fence](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0587-erect-the-fence) |
 | [0830-largest-triangle-area](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0866-rectangle-overlap) |
 | [0915-generate-random-point-in-a-circle](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0915-generate-random-point-in-a-circle) |
@@ -641,6 +643,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0223-rectangle-area) |
+| [0587-erect-the-fence](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0587-erect-the-fence) |
 | [0830-largest-triangle-area](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0866-rectangle-overlap) |
 | [0915-generate-random-point-in-a-circle](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0915-generate-random-point-in-a-circle) |
