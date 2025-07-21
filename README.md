@@ -337,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0368-largest-divisible-subset) |
 | [0830-largest-triangle-area](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0830-largest-triangle-area) |
+| [0866-rectangle-overlap](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0866-rectangle-overlap) |
 | [0915-generate-random-point-in-a-circle](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0915-generate-random-point-in-a-circle) |
 | [1260-day-of-the-year](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1260-day-of-the-year) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -641,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0223-rectangle-area](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0223-rectangle-area) |
 | [0830-largest-triangle-area](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0830-largest-triangle-area) |
+| [0866-rectangle-overlap](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0866-rectangle-overlap) |
 | [0915-generate-random-point-in-a-circle](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0915-generate-random-point-in-a-circle) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Matrix
