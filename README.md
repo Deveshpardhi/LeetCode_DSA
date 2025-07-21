@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0792-binary-search) |
+| [0830-largest-triangle-area](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0830-largest-triangle-area) |
 | [0878-shifting-letters](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0878-shifting-letters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -335,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0368-largest-divisible-subset) |
+| [0830-largest-triangle-area](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0830-largest-triangle-area) |
 | [0915-generate-random-point-in-a-circle](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0915-generate-random-point-in-a-circle) |
 | [1260-day-of-the-year](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1260-day-of-the-year) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -638,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0223-rectangle-area) |
+| [0830-largest-triangle-area](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0830-largest-triangle-area) |
 | [0915-generate-random-point-in-a-circle](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0915-generate-random-point-in-a-circle) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Matrix
