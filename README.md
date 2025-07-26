@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Table
 |  |
 | ------- |
@@ -391,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3647-zero-array-transformation-iii](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3647-zero-array-transformation-iii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Backtracking
 |  |
 | ------- |
@@ -757,6 +759,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2202-sum-of-k-mirror-numbers](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Queue
 |  |
 | ------- |
@@ -812,4 +815,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0915-generate-random-point-in-a-circle](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0915-generate-random-point-in-a-circle) |
+## Segment Tree
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 <!---LeetCode Topics End-->
