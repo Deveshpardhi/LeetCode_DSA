@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0500-keyboard-row) |
+| [0516-longest-palindromic-subsequence](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0768-partition-labels) |
 | [0857-positions-of-large-groups](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0857-positions-of-large-groups) |
@@ -546,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0368-largest-divisible-subset) |
+| [0516-longest-palindromic-subsequence](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0806-domino-and-tromino-tiling](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
