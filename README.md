@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0118-pascals-triangle](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0162-find-peak-element) |
@@ -551,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0368-largest-divisible-subset) |
 | [0516-longest-palindromic-subsequence](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0516-longest-palindromic-subsequence) |
