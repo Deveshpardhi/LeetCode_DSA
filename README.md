@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2689-rearranging-fruits](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -306,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2689-rearranging-fruits) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2836-neither-minimum-nor-maximum) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -462,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
