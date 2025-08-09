@@ -364,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0368-largest-divisible-subset) |
 | [0587-erect-the-fence](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0587-erect-the-fence) |
+| [0826-soup-servings](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0866-rectangle-overlap) |
 | [0915-generate-random-point-in-a-circle](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0915-generate-random-point-in-a-circle) |
@@ -571,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0368-largest-divisible-subset) |
 | [0516-longest-palindromic-subsequence](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0806-domino-and-tromino-tiling](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0806-domino-and-tromino-tiling) |
+| [0826-soup-servings](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -866,4 +868,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/3791-fruits-into-baskets-iii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
