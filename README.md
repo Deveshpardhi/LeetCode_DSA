@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0932-monotonic-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0932-monotonic-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0940-fruit-into-baskets) |
+| [0994-prison-cells-after-n-days](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0994-prison-cells-after-n-days) |
 | [1028-interval-list-intersections](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1028-interval-list-intersections) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0940-fruit-into-baskets) |
+| [0994-prison-cells-after-n-days](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0994-prison-cells-after-n-days) |
 | [1160-letter-tile-possibilities](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -371,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0866-rectangle-overlap](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0866-rectangle-overlap) |
 | [0900-reordered-power-of-2](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0900-reordered-power-of-2) |
 | [0915-generate-random-point-in-a-circle](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0915-generate-random-point-in-a-circle) |
+| [0994-prison-cells-after-n-days](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0994-prison-cells-after-n-days) |
 | [1260-day-of-the-year](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1260-day-of-the-year) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -677,6 +680,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0461-hamming-distance) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0994-prison-cells-after-n-days](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0994-prison-cells-after-n-days) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
