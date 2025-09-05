@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0149-max-points-on-a-line) |
+| [0152-maximum-product-subarray](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0217-contains-duplicate) |
@@ -591,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0368-largest-divisible-subset) |
 | [0516-longest-palindromic-subsequence](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0516-longest-palindromic-subsequence) |
