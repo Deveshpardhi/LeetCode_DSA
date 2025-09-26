@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0587-erect-the-fence](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0587-erect-the-fence) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0830-largest-triangle-area) |
 | [0878-shifting-letters](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0878-shifting-letters) |
@@ -314,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0900-reordered-power-of-2) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -484,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0768-partition-labels) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -651,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -781,6 +785,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
