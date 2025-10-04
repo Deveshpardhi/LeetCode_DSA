@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
@@ -485,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0768-partition-labels) |
@@ -634,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
