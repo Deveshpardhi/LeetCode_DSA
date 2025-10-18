@@ -770,6 +770,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1155-product-sales-analysis-iii](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1155-product-sales-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1182-game-play-analysis-iv) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1245-user-activity-for-the-past-30-days-i) |
+| [1317-monthly-transactions-i](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
