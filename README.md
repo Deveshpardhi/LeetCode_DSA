@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2195-time-needed-to-buy-tickets](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2479-meeting-rooms-iii](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2886-faulty-keyboard](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2886-faulty-keyboard) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2262-solving-questions-with-brainpower](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -292,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2479-meeting-rooms-iii) |
@@ -337,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2215-finding-3-digit-even-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
