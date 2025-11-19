@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1477-product-of-the-last-k-numbers) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1677-matrix-diagonal-sum](https://github.com/Deveshpardhi/LeetCode_DSA/tree/master/1677-matrix-diagonal-sum) |
